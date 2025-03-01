@@ -7,7 +7,7 @@
 ### Links
 
 - Code URL: [https://github.com/andrewteece/tailwind-sandbox](https://github.com/andrewteece/fungifinders)
-- Live Site URL: [https://peppy-dusk-e91f31.netlify.app/mushroom-guide](https://peppy-dusk-e91f31.netlify.app/mushroom-guide)
+- Live Site URL: [magenta-swan-97a56a.netlify.app](https://peppy-dusk-e91f31.netlify.app/mushroom-guide)
 
 
 ## Author
